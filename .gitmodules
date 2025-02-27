@@ -1,0 +1,3 @@
+[submodule "RAG_backed/MathBrain"]
+	path = RAG_backed/MathBrain
+	url = https://github.com/ice-tianfu/MathBrain
