@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Kalam';
+    src: url('../fonts/Kalam-Bold.ttf')format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kalam-Light';
+    src: url('../fonts/Kalam-Regular.ttf')format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '得意黑';
+    src: url('../fonts/deyihei.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
